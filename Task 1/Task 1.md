@@ -14,11 +14,11 @@ For this task, we were asked to utilise or make a tool that is helpful for produ
 
 I chose Metricool as the main automation tool because it is free and combines scheduling, planning, and analytics in one dashboard. 
 
-![alt text](image-1.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%201/image-1.png)
 
 For community notifications, I used the NotifyMe Discord bot to automatically alert our server when we upload on TikTok (TikTok, s.d.). Although I did not code these tools, I integrated them into our workflow as production systems to support the marketing side of development.
 
-![alt text](image.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%201/image.png)
 
 ### Technical approach:
 
@@ -28,7 +28,7 @@ For community notifications, I used the NotifyMe Discord bot to automatically al
 
 The main system used here was the account linking and scheduling configuration inside Metricool (linked platforms, planner, and analytics dashboard). For Discord, I configured NotifyMe to monitor our TikTok account and post updates into a dedicated notifications channel.
 
-![alt text](image-2.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%201/image-2.png)
 
  I also set up a separate bot section to avoid clutter and created a role-based opt-in ping, so only users who choose the role receive alerts.
 
