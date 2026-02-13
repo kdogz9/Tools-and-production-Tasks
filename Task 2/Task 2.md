@@ -6,17 +6,17 @@
 
 I created a resource portal to organise all of the important links that had been shared in our group Discord as the constant flow of messages was becoming overwhelming and made it difficult for people to find what they needed. 
 
-![ ](image.png)
+![ ](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image.png)
 ***Figure 1.** overview of the resource portal*
 
 After researching GitHub Pages (Quickstart for GitHub Pages, s.d.) and how to create a personalised index.html location (How to Configure GitHub Pages to Use a Custom index.html Location, 2025), I built a simple website that centralised these links and included explanations of the Discord bots so team members could use them correctly and consistently. 
 
-![alt text](image-1.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-1.png)
 ***Figure 2.** Discord bot explanation section*
 
 I also listed who created each linked document, giving everyone a clear point of contact for questions or concerns and improving accountability across the team.
  
- ![alt text](image-2.png)
+ ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-2.png)
  ***Figure 3.** Point of contact for each document made*
 
 The portal was designed to support clearer collaboration, reduce confusion or miscommunication, and improve workflow efficiency by providing structured documentation that aligns with professional production practices.
@@ -28,13 +28,13 @@ For the GitHub Pages resource portal, I built a static website using HTML and CS
 
  I structured the page using semantic elements like `<header>`, `<main>`, `<section>`, and `<footer>` to keep the content organised, with each resource (Figma, ClickUp, GDD, asset lists, artist documents, and Discord bots) separated into its own `<section>` and linked using `<a>` tags. 
 
-![alt text](image-3.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-3.png)
 
 ***Figure 4.** Code snippet of HTML used*
 
 For presentation, I applied CSS directly in the `<style>` block to control typography, colours, spacing, and readability, including centred headings (`h1`, `h2`) and consistent gaps between sections using `section { margin-bottom: 50px; }`. 
 
-![alt text](image-4.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-4.png)
 ***Figure 5.** Code snippet of CSS used*
 
 I also used ordered lists (HTML Ordered Lists, s.d.) (`<ol>`) and unordered lists (`<ul>`) to format step-by-step instructions for the ticket bot and asset drop-off bot so the guidance was easy to follow. 
