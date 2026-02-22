@@ -51,8 +51,7 @@ Secrets Management - OWASP Cheat Sheet Series (s.d.) At: https://cheatsheetserie
 
 ## 5. AI Usage Declaration
 
-- State whether AI tools were used or not  
-- If used, name the tool(s) and describe how they were used  
+Chat GPT was used to help write this document. 
 
 ---
 
