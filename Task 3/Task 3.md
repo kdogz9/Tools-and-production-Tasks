@@ -13,12 +13,17 @@ There is also an integrity risk. If an internal team member misuses permissions 
 
 From a networking perspective, GitHub Pages provides a secure baseline because it serves content over HTTPS, which operates over TCP with TLS encryption to ensure confidentiality and integrity during transmission (Securing your GitHub Pages site with HTTPS, s.d.). This mitigates interception risks but does not address access control or misuse.
 
+![alt text](image-2.png)
+
 To reduce data exposure, the portal should only link to documents that require authenticated access through managed organisational accounts (e.g., Google Workspace, Microsoft 365, or GitHub organisation access) rather than public link sharing. Permissions should follow the principle of least privilege, ensuring only authorised team members can view or edit documentation.
 
+![alt text](image-1.png)
 At the repository level, mitigation measures include enforcing multi-factor authentication for contributors (Authentication documentation, s.d.), restricting write access, enabling branch protection rules, and requiring pull request reviews. These controls reduce the likelihood of unauthorised or unreviewed changes.
 
-If Discord bots are referenced, their tokens must never be stored in the repository or exposed client-side. Instead, they should be managed as encrypted secrets, rotated periodically, and assigned minimal required permissions (OWASP, s.d.). Logging and auditing through GitHub commit history and audit logs support traceability and incident response. 
+![alt text](image-3.png)
 
+If Discord bots are referenced, their tokens must never be stored in the repository or exposed client-side. Instead, they should be managed as encrypted secrets, rotated periodically, and assigned minimal required permissions (OWASP, s.d.). Logging and auditing through GitHub commit history and audit logs support traceability and incident response. 
+![alt text](image.png)
 Finally, GDPR data minimisation principles should be followed by limiting personal contact details and using role-based identifiers where possible.
 
 
