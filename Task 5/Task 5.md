@@ -18,7 +18,32 @@ To achieve this, I researched documentation tools commonly used in industry and 
 ## 2. Implementation (246 words)
 
 The implementation used JavaScript as the core programming language, since the countdown system already existed within the website’s front-end code.
+```
+ * Timer interval that updates the countdown display every second.
+ * * This function calculates the remaining time between the current moment 
+ * and {@link launchDate}, then updates the innerText of the following DOM elements:
+ * - `id="days"`
+ * - `id="hours"`
+ * - `id="mins"`
+ * * @type {ReturnType<typeof setInterval>}
+ */
+const timer = setInterval(function() {
+    /** @type {number} Current timestamp in milliseconds */
+    const now = new Date().getTime();
 
+    /** @type {number} Difference between launch and now in milliseconds */
+    const distance = launchDate - now;
+
+    // Time calculations
+    /** @type {number} Remaining full days */
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    
+    /** @type {number} Remaining hours after days are subtracted */
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    
+    /** @type {number} Remaining minutes after hours are subtracted */
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+ ```
 
  The documentation system was generated using JSDoc, which works by placing structured comment blocks above functions and variables. These comment blocks describe parameters, return values, and the purpose of each function. After adding these annotations to the countdown script, I used the JSDoc command line tool to generate a formatted HTML documentation site that acts as the API reference (Use JSDoc: Getting Started with JSDoc 3, s.d.).
 
