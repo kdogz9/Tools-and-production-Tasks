@@ -6,7 +6,7 @@
 
 I decided to create an API related to the JavaScript used in the social-facing website I developed. Specifically, I chose to document the script that controls the countdown displayed on the main page. This countdown calculates and displays the remaining time until the game is fully released, making it an important feature as it allows visitors to track the launch date and stay engaged with the project.
 
-![alt text](image.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image.png)
 Rather than rewriting the functionality, my approach was to generate structured API documentation for the existing JavaScript. This would clearly explain the behaviour of the functions, their parameters, and outputs so the system could be more easily understood and reused by other developers.
 
 To achieve this, I researched documentation tools commonly used in industry and identified JSDoc (Use JSDoc: Getting Started with JSDoc 3, s.d.) as the most suitable option. JSDoc allows developers to annotate functions within JavaScript files and automatically generate readable documentation.
@@ -49,10 +49,10 @@ const timer = setInterval(function() {
 
 The main file documented was the JavaScript responsible for calculating and updating the countdown timer. Key functions include those responsible for calculating the remaining time, updating the countdown display, and triggering refresh intervals so the timer updates every second. Each function was annotated with JSDoc tags such as @function, @param, and @returns, allowing the documentation generator to automatically build a structured API page.
 
-![alt text](image-2.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image-2.png)
 To make the generated documentation downloadable, I used GitHub artifacts. Through the repository’s automated workflow system, the documentation files were packaged as an artifact that can be downloaded after a build process. 
 
-![alt text](image-1.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image-1.png)
 
  One challenge was ensuring that all functions were correctly documented so the generator would recognise them. This was resolved by carefully following the JSDoc annotation format. Another challenge was making sure the document was seperate from the social facing website HTML since I had a few issues with it replacing the whole website so this is why I chose to have the document downloadable.
 
