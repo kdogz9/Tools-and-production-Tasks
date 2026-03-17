@@ -28,13 +28,39 @@ For the GitHub Pages resource portal, I built a static website using HTML and CS
 
  I structured the page using semantic elements like `<header>`, `<main>`, `<section>`, and `<footer>` to keep the content organised, with each resource (Figma, ClickUp, GDD, asset lists, artist documents, and Discord bots) separated into its own `<section>` and linked using `<a>` tags. 
 
-![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-3.png)
+ <h2>Figma</h2>
+            
+            <p><b>Figma acts as an online whiteboard where you can put all of your research into.</b></p>
+
+            <ul>
+                <li>It is a collaborative software which allows everyone invited to work on the whiteboard and also see all of the added content by other team memebers. </li>
+                <li>This documentation is very important to keep up to date with as everyone can be kept in the loop in terms of artists research, design concepts and mechanics. </li>
+
+                <a href="https://www.figma.com/board/btIq1Pcu5Dng1nUzpth2tR/Greedy-piggies?node-id=0-1&t=jSloNTIRrPyvE3Uk-1"> Link to Figma board !</a>
+            </ul>
+        </section>
 
 ***Figure 4.** Code snippet of HTML used*
 
 For presentation, I applied CSS directly in the `<style>` block to control typography, colours, spacing, and readability, including centred headings (`h1`, `h2`) and consistent gaps between sections using `section { margin-bottom: 50px; }`. 
-
-![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-4.png)
+```
+<style>
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    background-color: #ffecf9;
+    color: #5c2376;
+  }
+    h1 { text-align: center; margin-bottom: 15px; }
+  h2 { text-align: center; margin-bottom: 15px; }
+  section { margin-bottom: 50px; padding-bottom: 10px; }
+  ul { margin-top: 10px; margin-bottom: 15px; }
+  li { margin-bottom: 8px; }
+  a { display: inline-block; margin-top: 10px; }
+```
 ***Figure 5.** Code snippet of CSS used*
 
 I also used ordered lists (HTML Ordered Lists, s.d.) (`<ol>`) and unordered lists (`<ul>`) to format step-by-step instructions for the ticket bot and asset drop-off bot so the guidance was easy to follow. 
