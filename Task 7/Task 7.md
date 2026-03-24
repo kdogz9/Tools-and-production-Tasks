@@ -1,14 +1,22 @@
-# Task Title
+# Short proposal
+
 
 ---
 
-## 1. Introduction (≈150 words)
+## Explanation of the tool 
 
-- Briefly describe the task you were asked to complete  
-- Explain your reasoning and overall approach  
-- Outline why this task is relevant or important in a professional or technical context  
+I made a resource portal for this project to support clearer collaboration, reduce confusion or miscommunication, and improve workflow efficiency by providing structured documentation that aligns with professional production practices. I did this by including clear points of contacts next to each important document linked on the website and also provided explanations on how all of the discord bots worked.  
 
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-2.png)
+***Figure 1.** Point of contact for each document made and the links to each document.*
+ 
 ---
+## The technical stack needed to support it in production
+Hosting a website like this online which contains sensitive data such as peoples names and editable links means that two factor authentication should be in place. Keeping this in mind, it would be best to host the website on a platform called Firebase. 
+
+Firebase allows you to host your website, provides two factor authentication, file storage, database and backend functions. This platform is most beneficial to use as the site is mainly front end based so it would be enough as there is no complex backend logic involved. It is also quick to setup and doesnt involve managing any servers which would be uneccessary for this portal. 
+
+
 
 ## 2. Implementation (≈200 words)
 
