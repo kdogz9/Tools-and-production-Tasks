@@ -20,6 +20,8 @@ Firebase allows you to host your website, provides two factor authentication, fi
 
 ***Figure 2.** Firebase flow and using two factor authentication.*
 
+![](mermaid-diagram.png)
+***Figure 3.** Example of technical stack using firebase.*
 ## 2. Implementation (≈200 words)
 
 - Describe the tools, engine, language, or framework used  
