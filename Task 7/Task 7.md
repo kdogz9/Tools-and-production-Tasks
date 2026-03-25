@@ -25,7 +25,7 @@ Firebase allows you to host your website (Firebase Hosting, s.d.), provides two 
 ## The hardware and/or cloud requirements needed to run, host, test, or maintain it
 The website would mainly rely on cloud services rather than a dedicated physical server to store any data. 
 
-Cloud Firestone would be used to store the document links, contact details and the portal content. However, if there are any uploaded files put onto the website instead of the links then cloud storage for Firebase would be needed to take into consideration. 
+Cloud Firestore (Firestore, s.d.) would be used to store the document links, contact details and the portal content. However, if there are any uploaded files put onto the website instead of the links then cloud storage for Firebase would be needed to take into consideration. 
 
 Firebase Hosting includes SSL and custom domain support, and hosting usage is mainly measured by storage and data transfer. Cloud Firestore usage is measured by stored data plus document reads, writes, and deletes.
 
@@ -52,6 +52,7 @@ Firebase | Google’s Mobile and Web App Development Platform (s.d.) At: https:/
 
 Firebase Hosting (s.d.) At: https://firebase.google.com/docs/hosting (Accessed  25/03/2026).
 
+Firestore (s.d.) At: https://cloud.google.com/products/firestore (Accessed  25/03/2026).
 
 ---
 
