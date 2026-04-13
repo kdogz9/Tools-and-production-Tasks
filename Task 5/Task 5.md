@@ -77,9 +77,9 @@ Use JSDoc: Getting Started with JSDoc 3 (s.d.) At: https://jsdoc.app/about-getti
 
 ## 5. AI Usage Declaration
 
-- State whether AI tools were used or not  
-- If used, name the tool(s) and describe how they were used  
-
+> The following assets were created or modified with the use of Gemini:
+> * Public facing API 
+> * Resource portal 
 ---
 
 ## Submission Notes & Checklist

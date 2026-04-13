@@ -28,6 +28,7 @@ For the GitHub Pages resource portal, I built a static website using HTML and CS
 
  I structured the page using semantic elements like `<header>`, `<main>`, `<section>`, and `<footer>` to keep the content organised, with each resource (Figma, ClickUp, GDD, asset lists, artist documents, and Discord bots) separated into its own `<section>` and linked using `<a>` tags. 
 
+```
  <h2>Figma</h2>
             
             <p><b>Figma acts as an online whiteboard where you can put all of your research into.</b></p>
@@ -39,7 +40,7 @@ For the GitHub Pages resource portal, I built a static website using HTML and CS
                 <a href="https://www.figma.com/board/btIq1Pcu5Dng1nUzpth2tR/Greedy-piggies?node-id=0-1&t=jSloNTIRrPyvE3Uk-1"> Link to Figma board !</a>
             </ul>
         </section>
-
+```
 ***Figure 4.** Code snippet of HTML used*
 
 For presentation, I applied CSS directly in the `<style>` block to control typography, colours, spacing, and readability, including centred headings (`h1`, `h2`) and consistent gaps between sections using `section { margin-bottom: 50px; }`. 
@@ -98,8 +99,10 @@ HTML Ordered Lists (s.d.) At: https://www.w3schools.com/html/html_lists_ordered.
 
 ## 5. AI Usage Declaration
 
-ChatGPT was used to help write this document. 
+> The following assets were created or modified with the use of Gemini: 
+> * Resource portal 
 
-
+> The following assets were created or modified with the use of ChatGPT 4.0: 
+> * Task 2 write up 
 ---
 

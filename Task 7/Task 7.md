@@ -58,7 +58,7 @@ Firestore (s.d.) At: https://cloud.google.com/products/firestore (Accessed  25/0
 
 ## 5. AI Usage Declaration
 
-- State whether AI tools were used or not  
-- If used, name the tool(s) and describe how they were used  
-
+> The following assets were created or modified with the use of Gemini:
+> * Mermaid diagrams
+> * Resource portal 
 

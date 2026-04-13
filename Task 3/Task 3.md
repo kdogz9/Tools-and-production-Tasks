@@ -56,8 +56,10 @@ Secrets Management - OWASP Cheat Sheet Series (s.d.) At: https://cheatsheetserie
 
 ## 5. AI Usage Declaration
 
-Chat GPT was used to help write this document. 
-Mermaid Live was used to provide the flow diagram images.
+> The following assets were created or modified with the use of GPT-4o:
+> * Task 3 writeup 
+> * Mermaid diagrams 
+
 
 ---
 
