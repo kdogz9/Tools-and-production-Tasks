@@ -63,7 +63,6 @@ The final result is a documented API that explains how the countdown system used
 
 All of the requirements of the task were met. The countdown script was successfully documented using JSDoc, and the documentation output was generated as a downloadable artifact through GitHub. This ensures the API documentation can be accessed and shared easily.
 
-
 ---
 
 ## 4. Bibliography
@@ -82,18 +81,3 @@ Use JSDoc: Getting Started with JSDoc 3 (s.d.) At: https://jsdoc.app/about-getti
 > * Resource portal 
 ---
 
-## Submission Notes & Checklist
-
-> Remove this section once complete — use this as a checklist before submitting
-
-- Total word count: **500 words (±10%)** across Sections 1–3  
-- **Figure captions and figure descriptions do NOT count towards the word count**  
-- Use **plenty of images, GIFs, videos, screenshots, and short code snippets** where appropriate to demonstrate understanding and functionality  
-- All required **source code is included in this repository**  
-- Any required **executables or builds are provided via GitHub Releases**, where appropriate  
-- Demonstration video link is accessible and clearly shows functionality  
-- Bibliography includes all referenced material  
-- AI usage is clearly declared (or explicitly stated as not used)  
-- Work reflects your own understanding and professional practice  
-
----

@@ -43,11 +43,6 @@ The main system used here was the account linking and scheduling configuration i
 The final result is an automated social media workflow that reduces manual posting and keeps our community updated. Metricool allows me to create a post once, schedule it, and monitor performance (follower count and engagement) from a single dashboard. NotifyMe automatically sends a Discord notification whenever a new TikTok is uploaded, so our audience is informed instantly without extra effort.
 
 This meets the task requirements because I implemented production-support tools that improve efficiency and reduce repetitive work as part of a wider development pipeline. The demonstrated functionality includes:linked social accounts inside Metricool, scheduled multi-platform posting, analytics tracking in one place, and a Discord channel that posts TikTok upload alerts with a role-based opt-in ping.
- 
-- Provide a link to a short demonstration video  
-- Describe the demonstrated functionality  
-
-**Demonstration video link:**  
 
 ---
 
@@ -63,23 +58,5 @@ Instagram (s.d.) At: https://www.instagram.com/ (Accessed  07/02/2026).
 
 Discord - Group Chat That’s All Fun & Games (s.d.) At: https://discord.com (Accessed  07/02/2026).
 
-
-
----
-
-
-## Submission Notes & Checklist
-
-> Remove this section once complete — use this as a checklist before submitting
-
-- Total word count: **500 words (±10%)** across Sections 1–3  
-- **Figure captions and figure descriptions do NOT count towards the word count**  
-- Use **plenty of images, GIFs, videos, screenshots, and short code snippets** where appropriate to demonstrate understanding and functionality  
-- All required **source code is included in this repository**  
-- Any required **executables or builds are provided via GitHub Releases**, where appropriate  
-- Demonstration video link is accessible and clearly shows functionality  
-- Bibliography includes all referenced material  
-- AI usage is clearly declared (or explicitly stated as not used)  
-- Work reflects your own understanding and professional practice  
 
 ---

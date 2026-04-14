@@ -80,9 +80,6 @@ The final result is a fully functional GitHub Pages website that acts as a centr
  
   All original task requirements have been met: the portal consolidates previously scattered links, explains how automation tools (such as the ticket and asset drop-off bots) function, and clearly identifies document owners to improve accountability. The demonstrated functionality shows that the website successfully improves organisation, reduces confusion, and supports a more efficient collaborative workflow within the production pipeline.
 
-
-**Demonstration video link:**  
-
 ---
 
 ## 4. Bibliography

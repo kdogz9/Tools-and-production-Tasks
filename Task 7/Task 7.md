@@ -14,11 +14,11 @@ Hosting a website like this online which contains sensitive data such as peoples
 
 Firebase allows you to host your website (Firebase Hosting, s.d.), provides two factor authentication, file storage, database and backend functions. This platform is most beneficial to use as the site is mainly front end based so it would be enough as there is no complex backend logic involved. It is also quick to setup and doesnt involve managing any servers which would be uneccessary for this portal. 
 
-![alt text](image.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%207/image.png)
 
 ***Figure 2.** Firebase flow and using two factor authentication.*
 
-![](mermaid-diagram.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%207/mermaid-diagram.png)
 ***Figure 3.** Example of technical stack using firebase.*
 
 ---

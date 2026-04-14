@@ -33,9 +33,6 @@ Finally, GDPR data minimisation principles should be followed by limiting person
 
 Overall, the portal remains relatively low risk because it is static and does not process player data directly. The primary risks relate to misconfiguration, internal misuse, and repository compromise rather than complex network exploitation. Introducing additional networking features such as centralised validation services, shared dashboards, or version control integration could improve visibility and ensure documents are always up to date. A dedicated authoritative backend could increase trust by validating resources dynamically. However, moving to a client–server model would increase infrastructure complexity, maintenance requirements, and the overall attack surface. For this project’s scale, maintaining a lightweight HTTPS-based portal with strong access controls provides the best balance between usability, security, and operational simplicity.
 
-
-**Demonstration video link:**  
-
 ---
 
 ## 4. Bibliography
@@ -49,8 +46,6 @@ Securing your GitHub Pages site with HTTPS (s.d.) At: https://docs-internal.gith
 Authentication documentation (s.d.) At: https://docs-internal.github.com/en/authentication (Accessed  22/02/2026).
 
 Secrets Management - OWASP Cheat Sheet Series (s.d.) At: https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html (Accessed  22/02/2026).
-
-
 
 ---
 
