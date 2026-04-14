@@ -20,7 +20,7 @@ import os, textwrap
 # ──────────────────────────────────────────────
 # 0.  Configuration
 # ──────────────────────────────────────────────
-DATA_PATH = os.path.join(os.path.dirname(__file__), "reels_performance_metrics.csv")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "updated_reels_performance_metrics.csv")
 OUT_DIR   = os.path.dirname(__file__)
 DPI       = 300
 
@@ -51,6 +51,9 @@ plt.rcParams.update({
 # 1.  Data Loading & Processing
 # ──────────────────────────────────────────────
 df = pd.read_csv(DATA_PATH)
+for col in ["Reach", "Engagement Rate (%)", "Likes", "Saves", "Shares", "Comments", "Avg Watch Time (s)"]:
+    if col in df.columns:
+        df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
 
 # Strip whitespace from column names
 df.columns = df.columns.str.strip()
@@ -63,8 +66,10 @@ df.reset_index(drop=True, inplace=True)
 # Convert Duration (M:SS) to total seconds
 def duration_to_seconds(val):
     """Convert M:SS or H:MM:SS string to total seconds."""
+    if pd.isna(val) or str(val).lower() == "nan":
+        return 0
     parts = str(val).split(":")
-    parts = [int(p) for p in parts]
+    parts = [int(p) for p in parts if p.strip().isdigit()]
     if len(parts) == 2:
         return parts[0] * 60 + parts[1]
     elif len(parts) == 3:

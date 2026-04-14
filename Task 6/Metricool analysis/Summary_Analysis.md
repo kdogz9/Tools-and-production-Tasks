@@ -10,17 +10,17 @@
 
 | Metric | Value |
 |---|---|
-| **Total Posts Analyzed** | 5 |
-| **Average Reach** | 192 |
-| **Peak Reach** | 401 |
+| **Total Posts Analyzed** | 27 |
+| **Average Reach** | 372 |
+| **Peak Reach** | 794 |
 | **Average Impressions** | 370 |
-| **Average Engagement Rate** | 23.48% |
+| **Average Engagement Rate** | 4.35% |
 | **Peak Engagement Rate** | 40.86% |
-| **Total Likes** | 189 |
-| **Total Saves** | 121 |
-| **Total Shares** | 66 |
-| **Total Comments** | 1 |
-| **Average Watch Time** | 40.2s |
+| **Total Likes** | 570 |
+| **Total Saves** | 121.0 |
+| **Total Shares** | 66.0 |
+| **Total Comments** | 1.0 |
+| **Average Watch Time** | 7.4s |
 
 ---
 
@@ -55,21 +55,20 @@ Based on a review of post captions, three distinct content strategies were emplo
 
 ## 📊 Visual Insights
 
-### Reach vs. Engagement 
+### Reach vs. Engagement (see `reach_vs_engagement.png`)
 An inverse trend is visible: the highest-reach post (401) had the lowest engagement rate (13.97%), while the lowest-reach post (93) had the highest engagement rate (40.86%). This is a common pattern—broader reach often means less targeted audiences. **Focus on engagement quality over raw reach.**
 
-![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Metricool%20analysis/reach_vs_engagement.png)
-### Retention Sweet Spot 
+### Retention Sweet Spot (see `retention_analysis.png`)
 - The **14-second video** ("Secret To Making Levels") achieved the highest avg watch time of **44.1s** — a 3.15× replay ratio.
 - Shorter 8–9 second reels cluster around 37–41s avg watch time, still strong.
 - **Recommendation:** Videos in the **8–16 second range** are the sweet spot for this audience. They are short enough to trigger replays but long enough to convey value.
-![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Metricool%20analysis/retention_analysis.png)
-### Engagement Breakdown 
+
+### Engagement Breakdown (see `engagement_breakdown.png`)
 - **Likes** dominate total interactions across all posts (avg 37.8 per post).
 - **Saves** are consistently high (avg 24.2)—an excellent signal of content value. Saves indicate "I want to come back to this."
 - **Shares** vary significantly (3–18), driven by meme or gameplay content.
 - **Comments** are critically low (only 1 comment total). This is the biggest growth opportunity.
-![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Metricool%20analysis/engagement_breakdown.png)
+
 ---
 
 ## 🚀 Actionable Recommendations — Next 30 Days
