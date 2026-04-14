@@ -57,13 +57,13 @@ Based on a review of post captions, three distinct content strategies were emplo
 
 ### Reach vs. Engagement 
 
-![](reach_vs_engagement.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/reach_vs_engagement.png)
 
 An inverse trend is visible: the highest-reach post (401) had the lowest engagement rate (13.97%), while the lowest-reach post (93) had the highest engagement rate (40.86%). This is a common pattern—broader reach often means less targeted audiences. **Focus on engagement quality over raw reach.**
 
 ### Retention Sweet Spot 
 
-![](retention_analysis.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/retention_analysis.png)
 
 - The **14-second video** ("Secret To Making Levels") achieved the highest avg watch time of **44.1s** — a 3.15× replay ratio.
 - Shorter 8–9 second reels cluster around 37–41s avg watch time, still strong.
@@ -71,7 +71,7 @@ An inverse trend is visible: the highest-reach post (401) had the lowest engagem
 
 ### Engagement Breakdown 
 
-![](engagement_breakdown.png)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/engagement_breakdown.png)
 
 - **Likes** dominate total interactions across all posts (avg 37.8 per post).
 - **Saves** are consistently high (avg 24.2)—an excellent signal of content value. Saves indicate "I want to come back to this."
