@@ -58,7 +58,7 @@ To make the generated documentation downloadable, I used GitHub artifacts. Throu
 ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image-1.png)
 **Figure 4** *Artifact overview*
 
-![alt text](image-3.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image-3.png)
 
 **Figure 5** *GitHub artifact workflow*
 
@@ -69,7 +69,7 @@ To make the generated documentation downloadable, I used GitHub artifacts. Throu
 ## 3. Outcome (115 words)
 The final result is a documented API that explains how the countdown system used on the website operates. The generated documentation provides a clear overview of the countdown functions, their parameters, and the values they return. This allows other developers to understand how the timer works and potentially reuse or modify it within other projects. The documentation is automatically generated from the annotated JavaScript code, meaning it can easily be updated whenever the script changes.
 
-![alt text](image-4.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image-4.png)
 **Figure 6** *Benefits of a documented API*
 
 All of the requirements of the task were met. The countdown script was successfully documented using JSDoc, and the documentation output was generated as a downloadable artifact through GitHub. This ensures the API documentation can be accessed and shared easily.
