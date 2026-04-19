@@ -1,6 +1,5 @@
 # Resource portal 
 
----
 
 ## 1. Introduction (120 words)
 
