@@ -1,7 +1,5 @@
 # Design a public-facing API
 
----
-
 ## 1. Introduction (167 words)
 
 I decided to create an API related to the JavaScript used in the social-facing website I developed. Specifically, I chose to document the script that controls the countdown displayed on the main page. This countdown calculates and displays the remaining time until the game is fully released, making it an important feature as it allows visitors to track the launch date and stay engaged with the project.
@@ -53,6 +51,8 @@ The main file documented was the JavaScript responsible for calculating and upda
 To make the generated documentation downloadable, I used GitHub artifacts. Through the repository’s automated workflow system, the documentation files were packaged as an artifact that can be downloaded after a build process. 
 
 ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%205/image-1.png)
+
+![alt text](image-3.png)
 
  One challenge was ensuring that all functions were correctly documented so the generator would recognise them. This was resolved by carefully following the JSDoc annotation format. Another challenge was making sure the document was seperate from the social facing website HTML since I had a few issues with it replacing the whole website so this is why I chose to have the document downloadable.
 
