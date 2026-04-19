@@ -69,5 +69,7 @@ Instagram (s.d.) At: https://www.instagram.com/ (Accessed  07/02/2026).
 
 Discord - Group Chat That’s All Fun & Games (s.d.) At: https://discord.com (Accessed  07/02/2026).
 
-
 ---
+## 5. AI Usage Declaration
+> The following assets were created or modified with the use of ChatGPT 4.0: 
+> * Mermaid diagrams

@@ -76,8 +76,14 @@ A key challenge was making sure layout and styling changes displayed correctly o
 
 The final result is a fully functional GitHub Pages website that acts as a centralised resource hub for the project, providing access to all key documents such as asset lists and Discord bot guidance.
 
+![alt text](image-5.png)
+***Figure 6.** Resource portal contents diagram*
+
  The site behaves as a clear documentation page, with organised sections, consistent formatting, and direct hyperlinks that allow users to quickly navigate to external platforms such as Figma, ClickUp, Google Docs, and SharePoint. The layout ensures readability through centred headings, spacing between sections, and structured lists for step-by-step bot instructions, making the information accessible and easy to follow.
  
+ ![alt text](image-6.png)
+ ***Figure 7.** Benefits of the portal diagram*
+
   All original task requirements have been met: the portal consolidates previously scattered links, explains how automation tools (such as the ticket and asset drop-off bots) function, and clearly identifies document owners to improve accountability. The demonstrated functionality shows that the website successfully improves organisation, reduces confusion, and supports a more efficient collaborative workflow within the production pipeline.
 
 ---
@@ -101,5 +107,6 @@ HTML Ordered Lists (s.d.) At: https://www.w3schools.com/html/html_lists_ordered.
 
 > The following assets were created or modified with the use of ChatGPT 4.0: 
 > * Task 2 write up 
+> * Mermaid diagrams
 ---
 
