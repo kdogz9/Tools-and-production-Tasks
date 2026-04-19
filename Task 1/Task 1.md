@@ -6,7 +6,7 @@
 
 For this task, we were asked to utilise or make a tool that is helpful for production. As I am responsible for the game’s social media, I focused on researching tools that improve the marketing workflow. I looked into automation software (Metricool, s.d.) that can upload a post to multiple platforms at the same time (i.e., Instagram and TikTok), reducing the time spent posting manually. I also looked into utilising a Discord (Discord - Group Chat That’s All Fun & Games, s.d.) bot (YouTube, TikTok, Twitch and Kick.com Notifications on Discord!, s.d.) that posts an automatic notification in our public server whenever a new TikTok is uploaded, so our following is updated immediately without any extra steps. 
 
-![alt text](image-3.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%201/image-3.png)
 **Figure 1** *Social media content workflow diagram*
 
 This is professionally relevant as game studios rely on efficient pipelines, and marketing is an important part of production. Automating repetitive tasks reduces human error, saves time, and keeps promotion consistent, which is incredibly important for a small team like ours.
@@ -50,7 +50,7 @@ The main system used here was the account linking and scheduling configuration i
 
 The final result is an automated social media workflow that reduces manual posting and keeps our community updated. Metricool allows me to create a post once, schedule it, and monitor performance (follower count and engagement) from a single dashboard. NotifyMe automatically sends a Discord notification whenever a new TikTok is uploaded, so our audience is informed instantly without extra effort.
 
-![alt text](image-4.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%201/image-4.png)
 **Figure 5** *Social media workflow diagram*
 
 This meets the task requirements because I implemented production-support tools that improve efficiency and reduce repetitive work as part of a wider development pipeline. The demonstrated functionality includes:linked social accounts inside Metricool, scheduled multi-platform posting, analytics tracking in one place, and a Discord channel that posts TikTok upload alerts with a role-based opt-in ping.
