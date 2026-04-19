@@ -58,7 +58,7 @@ Firestore (s.d.) At: https://cloud.google.com/products/firestore (Accessed  25/0
 
 ## 5. AI Usage Declaration
 
-> The following assets were created or modified with the use of Gemini:
+> The following assets were created or modified with the use of Gemini 3 Flash:
 > * Mermaid diagrams
 > * Resource portal 
 

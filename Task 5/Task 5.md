@@ -76,7 +76,7 @@ Use JSDoc: Getting Started with JSDoc 3 (s.d.) At: https://jsdoc.app/about-getti
 
 ## 5. AI Usage Declaration
 
-> The following assets were created or modified with the use of Gemini:
+> The following assets were created or modified with the use of Gemini 3 Flash:
 > * Public facing API 
 > * Resource portal 
 ---

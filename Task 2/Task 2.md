@@ -96,7 +96,7 @@ HTML Ordered Lists (s.d.) At: https://www.w3schools.com/html/html_lists_ordered.
 
 ## 5. AI Usage Declaration
 
-> The following assets were created or modified with the use of Gemini: 
+> The following assets were created or modified with the use of Gemini 3 Flash: 
 > * Resource portal 
 
 > The following assets were created or modified with the use of ChatGPT 4.0: 
