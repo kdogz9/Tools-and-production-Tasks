@@ -14,6 +14,7 @@ There is also an integrity risk. If an internal team member misuses permissions 
 From a networking perspective, GitHub Pages provides a secure baseline because it serves content over HTTPS, which operates over TCP with TLS encryption to ensure confidentiality and integrity during transmission (Securing your GitHub Pages site with HTTPS, s.d.). This mitigates interception risks but does not address access control or misuse.
 
 ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%203/image-2.png)
+
 **Figure 1** *Network and transport diagram*
 
 To reduce data exposure, the portal should only link to documents that require authenticated access through managed organisational accounts (e.g., Google Workspace, Microsoft 365, or GitHub organisation access) rather than public link sharing. Permissions should follow the principle of least privilege, ensuring only authorised team members can view or edit documentation.

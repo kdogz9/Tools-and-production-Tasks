@@ -80,7 +80,7 @@ The final result is a fully functional GitHub Pages website that acts as a centr
 
  The site behaves as a clear documentation page, with organised sections, consistent formatting, and direct hyperlinks that allow users to quickly navigate to external platforms such as Figma, ClickUp, Google Docs, and SharePoint. The layout ensures readability through centred headings, spacing between sections, and structured lists for step-by-step bot instructions, making the information accessible and easy to follow.
  
- ![alt text](github.com/kdogz9/Tools-and-production-Tasks/blob/main/Task%202/image-6.png?raw=true)
+ ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%202/image-6.png)
  ***Figure 7.** Benefits of the portal diagram*
 
   All original task requirements have been met: the portal consolidates previously scattered links, explains how automation tools (such as the ticket and asset drop-off bots) function, and clearly identifies document owners to improve accountability. The demonstrated functionality shows that the website successfully improves organisation, reduces confusion, and supports a more efficient collaborative workflow within the production pipeline.
